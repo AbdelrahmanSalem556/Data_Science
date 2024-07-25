@@ -1,0 +1,1 @@
+An artificial intelligence model that sentiment analysis of text and video by extracting the audio from the video, then extracting the text from the video, then analyzing the text and producing the results, positive, negative, or natural.
